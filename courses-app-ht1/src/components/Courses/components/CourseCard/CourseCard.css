@@ -1,0 +1,17 @@
+.course {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+.course-card {
+    display: flex;
+    border: #0b2e13 1px solid;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: start;
+}
+
+.description {
+    width: 75%;
+    margin-right: 20px;
+}

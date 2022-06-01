@@ -1,0 +1,53 @@
+.title-area {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+    padding: 20px 20px 10px 15px;
+}
+
+textarea {
+    display: block;
+    width: 90%;
+    height: 70px;
+    border: #b06d0f 1px solid;
+    margin: 20px 20px 10px 15px;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.author-area {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    border: #0b2e13 1px solid;
+    margin: 20px 20px 10px 15px;
+}
+
+.author-area ul {
+    list-style-type: none;
+    justify-content: space-between;
+    text-align: justify;
+}
+.author-area li {
+    display: block;
+    justify-content: space-between;
+    margin: 5px;
+    text-align: start;
+}
+
+.author-area button {
+    margin-left: 20px;
+    justify-items: end;
+}
+
+
+.author-list {
+    justify-content: space-between;
+}
